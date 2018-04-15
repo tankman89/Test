@@ -5,7 +5,6 @@ def sandwich(*charging):
     for sandwich_charging in charging:
         print(sandwich_charging)
 
-
 sandwich('火腿肠', '鸡蛋')
 
 
